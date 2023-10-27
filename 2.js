@@ -11,3 +11,5 @@ function daysTillFriday(){
 
 }
 console.log(daysTillFriday());
+
+//test
